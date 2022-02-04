@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Tøj
+* Vin
+* Biler
+* Kærlighed
+  * Far og mor
+  * Børn
+  * Dorte
